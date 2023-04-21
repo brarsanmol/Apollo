@@ -1,0 +1,7 @@
+name: ${project.name}
+version: ${project.version} (Build ${git.commit.id.abbrev}, ${git.commit.time})
+description: ${project.description}
+authors: [DoctorDark, sainttx, ceezuns]
+depends: [ProtocolLib, NuVotifier, LuckPerms]
+main: com.octavemc.Apollo
+license: MIT

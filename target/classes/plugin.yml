@@ -1,0 +1,7 @@
+name: Apollo
+version: 1.0.0-SNAPSHOT (Build ${git.commit.id.abbrev}, ${git.commit.time})
+description: A multi-feature hardcore factions core developed for use on OctaveMC
+authors: [DoctorDark, sainttx, ceezuns]
+depends: [ProtocolLib, NuVotifier, LuckPerms]
+main: com.octavemc.Apollo
+license: MIT
